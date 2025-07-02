@@ -28,6 +28,11 @@ All customer activity—purchases, clicks, signups—is directed to a stream of 
 In this case, S3 serves as a **digital warehouse** where every piece of information is stored safely in folders and files, often in **JSON** and **CSV** formats.
 
 ---
+## Architectural Diagram
+
+![Untitled Diagram-Page-4](https://github.com/user-attachments/assets/85a0fa94-4b97-4307-9d6a-a6cc32fca6f1)
+
+---
 
 ### Step 2: AWS Glue Crawler
 
